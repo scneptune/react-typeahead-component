@@ -1,0 +1,26 @@
+{
+  "name": "react-typeahead-component",
+  "description": "Typeahead, written using the React.js library.",
+  "main": "./src/index.js",
+  "authors": [
+    "Ezequiel Rodriguez <ezequiel@yahoo.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "reactjs",
+    "typeahead",
+    "autocomplete",
+    "react-component",
+    "component"
+  ],
+  "homepage": "https://github.com/ezequiel/react-typeahead-component",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
